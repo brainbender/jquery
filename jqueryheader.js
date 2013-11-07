@@ -1,4 +1,8 @@
 /*
+
+This is going to be the jquery header this is with the source code unmodified.
+This way I can track changes to the base code.
+
  * Tiny Carousel 1.9
  * http://www.baijs.nl/tinycarousel
  *
